@@ -1,0 +1,29 @@
+{
+    "lists":[
+        {
+            "name": "KELLY MCGINNIS BECK, national president",
+            "description": "Upon graduation, Kelly traveled as a leadership consultant for the Sorority. As a founding member of the Greater Valley Forge Alumnae Chapter, Kelly has served as president, treasurer, ritual chairman and alumnae chapter Panhellenic delegate. She was previously treasurer for the Philadelphia Area Alumnae Panhellenic (PAAP). A national volunteer since 1999, Kelly has served in many volunteer roles including Epsilon Kappa membership advisor and chapter advisor, province director, District 2 Advantage coaching team leader, District 2 district facilitator, and volunteer recruitment and placement team leader. She has served on National Council since 2008, holding the roles of vice president of membership and vice president of finance until she was elected national president in 2018.",
+            "picture": "img/Kelly-McGinnis-Beck.jpg"
+        },
+        {
+            "name": "JESSICA BRIDWELL WRIGHT, vice president",
+            "description": "After graduation, Jessica traveled as a leadership consultant and then moved to Kansas City, where she helped create the Lawrence, KS alumnae chapter and later was active in the Greater Kansas City alumnae chapter. After moving to Albuquerque, she was the Alpha Sigma Alpha delegate and treasurer for the Albuquerque Metro Area Panhellenic. A volunteer since 2001, Jessica has the served the Sorority in many roles including Advantage coaching team leader, Zeta Zeta recruitment and standards advisor, and colony/chapter development coordinator. She is a frequent presenter at The Academy and District Day, facilitated at multiple Emma Coleman Frost Leadership Development Institutes, participated in numerous extension presentations, and welcomed new chapters across the country as part of installation teams, including delivering the keynote speech at two recent installations.",
+            "picture": "img/Jessica-Bridwell-Wright.jpg"
+        },
+        {
+            "name": "EMILY JUST, vice president",
+            "description": "Emily has served the national organization in many capacities, including traveling as a leadership consultant, and volunteering in the roles of education coaching team leader, volunteer management team member, Foundation ambassador, and as a member of the alumnae leadership development task force. She has been the lead facilitator for the service immersion experiences, as well as the Emma Coleman Frost Leadership Development Institutes from 2013-17. Emily has also presented at national conventions, district meetings and extension presentations.",
+            "picture": "img/Emily-Just.jpg"
+        },
+        {
+            "name": "HILLARY SEXTON, region 7 facilitator",
+            "description": "Hillary began volunteering as an advisor in various roles such as finance, recruitment, and standards. In 2016, she served as the advisory board liaison for Region 7 before moving into the region facilitator position in 2017. She also serves locally in Nashville as a camp counselor at Camp Hope, for pediatric burn survivors.",
+            "picture": "img/Hillary-Sexton.jpg"
+        },
+        {
+            "name": "AMBER SHAVERDI HUSTON, vice president",
+            "description": "Amber served as an education coaching team leader and RFM Specialist in 2006-08. In 2008 Amber joined the organization's headquarters staff as the membership growth coordinator. In that role Amber oversaw the organization's extension efforts, colonization, recruitment, and membership education. Upon departing staff, Amber began advising the Theta Zeta Chapter at IUPUI where she serving as their membership advisor for six years. Additionally, she volunteered as part of NPC's pilot program of RFM Specialists and area advisors for collegiate Panhellenics.",
+            "picture": "img/Amber-Shaverdi-Huston.jpg"
+        }
+    ]
+}

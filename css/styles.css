@@ -1,0 +1,182 @@
+/* 
+    COLOR PALETTE
+
+    Crimson Red: #8D191B
+    Pearl White: #FFFFFF
+    Foundation Gold: #B6985E
+    Palm Green: #898700
+
+    Bright Red: #E51937
+    Bright Gold: #EAE59F
+    Bright Green: #AAB300
+
+    Brown: #331524 -- for use of text only
+    Bright blue: #38A4CC
+    Bright orange: #FF8000
+    Purple: #812A76
+    Yellow: #ECD815
+*/ 
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+body, html{
+    font-family: "Avenir";
+    height:100%;
+}
+
+@font-face{
+    font-family: "Avenir";
+    src: url("../fonts/Avenir_55_Roman.ttf");
+}
+
+@font-face{
+    font-family: "Bellevue";
+    src: url("../fonts/Bellevue.otf");
+}
+
+nav{
+    height:10vh;
+    width:100%;
+    background-color:#8D191B;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    z-index:2;
+    position:fixed;
+}
+
+nav a{
+    color:#FFFFFF;
+    text-decoration:none;
+    font-family: mrs-eaves-roman-small-caps,sans-serif;
+}
+
+nav a:hover{
+    border-bottom:solid 2px white;
+}
+
+.logo-text img{
+    height:50px;
+    margin:0px 10px;
+}
+
+.logo-text{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.logo-text p{
+    color:white;
+}
+
+.links a{
+    margin-right:10px;
+}
+
+.fullSection{
+    width:100%;
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-image:url(../img/events_background.jpg);
+    background-size:cover;
+    background-repeat:repeat;
+    position:relative;
+    z-index:1;
+}
+
+.homeLogo img{
+    width:120%;
+}
+
+#backgroundHome{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+
+}
+
+.homeText{
+    margin:0px 10%;
+}
+
+.homeText p{
+    text-align:center;
+    color:white;
+    margin-top:20px;
+}
+
+.homeText b{
+    color:#B6985E;
+}
+
+#jsonContent{
+    padding:125px 75px;
+}
+
+#phpContent{
+    padding:125px 75px;
+}
+
+.individualSpeaker img{
+    width:150px !important;
+    height:150px !important;
+    margin-right:25px;
+}
+
+.individualSpeaker{
+    padding:25px 50px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+}
+
+.individualSpeakerText{
+    display:flex;
+    flex-direction:column;
+}
+
+.individualSpeakerText p{
+    text-align:justify;
+    margin-bottom:2px;
+}
+
+#jsonContent h2{
+    font-family: mrs-eaves-roman-small-caps,sans-serif;
+    font-size:2rem;
+}
+
+#phpContent h2{
+    font-family: mrs-eaves-roman-small-caps,sans-serif;
+    font-size:2rem;
+}
+
+.name{
+    font-family: mrs-eaves-roman-small-caps,sans-serif;
+    font-size:1.2rem;
+    color:#B6985E;
+}
+
+#jsonList{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    align-content:center;
+    justify-content:center;
+}
+
+#phpList{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    align-content:center;
+    justify-content:center;
+}
